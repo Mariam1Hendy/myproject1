@@ -1,2 +1,2 @@
-# myproject1
+# myproject
 this is test repo1
